@@ -109,7 +109,7 @@
     }
     
     .separador_enunciados {
-        border: 1px solid rgb(0, 0, 0);
+        border: 2px solid rgb(0, 0, 0);
         margin-top:20px;
         margin-bottom: 20px;
     }
@@ -232,7 +232,7 @@
     }
     
     .separador_enunciados {
-        border: 1px solid rgb(0, 0, 0);
+        border: 2px solid rgb(0, 0, 0);        
         margin-top:20px;
         margin-bottom: 20px;
     }
